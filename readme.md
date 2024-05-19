@@ -35,14 +35,6 @@ XGBoost is an optimized gradient boosting algorithm that is highly efficient and
 
 We train and test our data on the three models mentioned above. Each model provides different accuracies based on its inherent characteristics and the feature set used. The test data used is `tesla.csv`.
 
-## Results
-
-The performance of the models is evaluated using various metrics. Here are the accuracies obtained from each model:
-
-- **Linear Regression**: Accuracy - [insert accuracy]
-- **Support Vector Classification**: Accuracy - [insert accuracy]
-- **XGBoost Classifier**: Accuracy - [insert accuracy]
-
 ## Conclusion
 
 This project demonstrates the application of different machine learning algorithms for stock price prediction. By comparing the performance of Linear Regression, Support Vector Classification, and XGBoost Classifier, we can determine which model is best suited for this task.
@@ -57,7 +49,7 @@ This project demonstrates the application of different machine learning algorith
 
 1. Clone the repository.
 2. Install the required libraries.
-3. Open the `notebook.ipynb` file in Jupyter Notebook.
+3. Open the `main.ipynb` file in Jupyter Notebook.
 4. Execute the cells to run the data analysis, feature engineering, and model training/testing steps.
 
 ## Requirements
